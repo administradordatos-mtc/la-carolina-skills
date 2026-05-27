@@ -33,11 +33,14 @@ No produces piezas directamente — coordinas a los especialistas y consolidas s
 > Manual completo en: `agents/brand-manual.md`
 
 - **Colores:** Dorado `#D4B866` · Rojo `#C52724` · Negro `#171B1E` · Blanco (SOLO ESTOS)
-- **Tipografías:** Bebas Neue Pro (títulos) · Montserrat (cuerpo)
+- **Tipografías:** Bebas Neue (títulos) · Roboto/Open Sans (cuerpo web) · Montserrat (material de marca)
 - **Slogan:** "Transporte con corazón" — en barra roja, siempre
+- **Tagline web:** "Con pasión y compromiso movemos a Barranquilla"
 - **Elementos gráficos:** C como ventana, patrón C, chevrones »»», línea de ruta ondulada dorada
-- **Tono:** Barranquillero, cercano, positivo, nunca burocrático
-- **Hashtags:** #TransporteConCorazón #MovemosBarranquilla #LaCarolina
+- **Tono:** Barranquillero, cercano, positivo, nunca burocrático — como Carlos Vives
+- **Formato dominante en Instagram:** REELS (siempre proponer Reel salvo que pidan estático)
+- **Datos reales:** 34 años · +7M pasajeros/año · +200 personas · 4 rutas · Flota Youtong
+- **Hashtags:** #TransporteConCorazón #FamiliaLaCarolina #MovemosLaCiudad #MovemosBarranquilla #LaCarolina
 
 ---
 
@@ -145,14 +148,26 @@ Si ya hay suficiente información, ve directo a producir. No preguntes de más.
 
 Usar directamente o como base para el copy:
 - "Transporte con corazón"
+- "Con pasión y compromiso movemos a Barranquilla"
 - "Movemos el progreso de Barranquilla"
 - "Movemos a los que te cuidan"
+- "Movemos a los futuros grandes profesionales de la ciudad"
 - "Somos ejes del progreso de Barranquilla"
 - "Seguridad en cada viaje"
-- "30 años moviendo a Barranquilla"
-- "Pioneros en movilidad urbana"
-- "Tu aliado en el camino hacia el crecimiento"
+- "34 años moviendo a Barranquilla" ← dato real del sitio
 - "Pensamos en ti en cada paso del camino"
+- "Tu aliado en el camino hacia el crecimiento"
+- "Muévete al progreso, muévete al trabajo, mueve tu vida"
+- "Familia La Carolina" ← usado activamente en Instagram
+
+## Datos reales para usar en copy (NO inventar cifras)
+- **34 años** de experiencia
+- **+7.000.000** pasajeros al año
+- **+200** personas en el equipo
+- **4 rutas** en la ciudad
+- **+100** conductores y buses capacitados
+- Flota: **buses Youtong** (nueva adquisición)
+- Escuela: **Educarolina** (formación interna de conductores)
 
 ---
 

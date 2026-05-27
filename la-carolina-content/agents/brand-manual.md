@@ -9,12 +9,24 @@
 
 **Nombre completo:** Metropolitana de Transportes La Carolina  
 **Nombre corto:** La Carolina  
-**Web:** lacarolina.com  
-**Email:** Gerencia@lacarolina.com.co  
-**Teléfonos:** 3931012 · 3931045 · 3931037 · 31459854572  
+**Web:** lacarolina.com.co  
+**Email principal:** recepcion@lacarolina.com.co  
+**Email gerencia:** Gerencia@lacarolina.com.co  
+**Teléfono:** 393-1037 Ext. 100  
 **Dirección:** Cl. 54 #14-304, Soledad, Atlántico  
-**Redes:** @lacarolinatransporte  
+**Redes:** @lacarolinatransporte (Instagram + Facebook)  
 **Certificación:** ISO 39001 (Icontec) — aparece en documentos formales
+
+### Datos reales (sitio web lacarolina.com.co — confirmados)
+- **34 años** de experiencia (NO 30 — actualizado)
+- **+200 personas** trabajando en La Carolina
+- **+7.000.000 pasajeros al año** en cada ruta
+- **4 rutas** en toda la ciudad (Miramar A-16, Buenavista, Alameda, Ecológica/Carolina Confort)
+- **+100 conductores y buses** capacitados
+- Flota nueva: **buses Youtong** (adquisición reciente, protagonismo en redes)
+- **Educarolina:** escuela interna de formación de conductores (diferenciador real)
+- **Alianza institucional:** Alcaldía de Barranquilla + Superpolo S.A.S.
+- Tagline del sitio web: *"Con pasión y compromiso movemos a Barranquilla"*
 
 ---
 
@@ -201,12 +213,21 @@ Siempre en rojo o sobre barra/fondo dorado con texto negro. En footer de portada
 - "Somos una marca líder en el sector"
 - "Movemos a los que te cuidan"
 - "Movemos a los futuros grandes profesionales de la ciudad"
-- "30 años moviendo a Barranquilla"
-- "Pioneros en movilidad urbana"
+- "34 años moviendo a Barranquilla"
+- "34 años pioneros en movilidad urbana"
+- "Con pasión y compromiso movemos a Barranquilla"
+- "Familia La Carolina"
+- "+7 millones de pasajeros confían en nosotros cada año"
 
 **Palabras clave de marca:** Servicio · Responsabilidad · Profesionalismo · Cercanía · Chévere · Espontáneo · Confiable · Seguridad · Incluyente · Asequible · Local-Barranquilla y Soledad · Orgullo de ciudad · Transporte · Movilidad · Rutas
 
-**Hashtags:** `#TransporteConCorazón` `#MovemosBarranquilla` `#LaCarolina` `#LaCarolinaMTC`
+**Hashtags activos (confirmados en Instagram real):**
+- Principal: `#TransporteConCorazón` — usar siempre
+- `#LaCarolina` `#FamiliaLaCarolina` `#MovemosLaCiudad`
+- `#MovemosBarranquilla` `#BarranquillaAOtroNivel`
+- `#ConductoresLaCarolina` `#TrabajoEstable` (para convocatorias)
+- `#Barranquilla` `#Soledad`
+- Por ruta/flota: `#RutaA16` `#Youtong` `#Miramar`
 
 ---
 

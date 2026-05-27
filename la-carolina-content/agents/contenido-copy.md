@@ -207,15 +207,38 @@ Cierre: Eso es transporte con corazón. ❤
 
 ---
 
+## Estrategia real de Instagram (@lacarolinatransporte)
+
+### Formato dominante: REELS
+El análisis del perfil real confirma que los Reels son el contenido principal. Siempre proponer Reel como formato principal salvo que se pida explícitamente post estático.
+
+### Posts de mayor engagement (lecciones del feed real)
+- **366 likes:** Alianza Alcaldía + nueva flota Youtong → *los anuncios institucionales y de flota nueva son el contenido que más conecta*
+- **177 likes:** Reconocimiento conductor Día de la Mujer → *los conductores nombrados por nombre generan comunidad real*
+- Activaciones especiales (Día de las Madres con buses decorados) → *UGC y participación de conductores = contenido auténtico*
+
+### Lo que funciona en su feed (mantener y potenciar)
+- Reconocimiento de conductores por nombre: "señor Enrique", "compañero Carlos" → comentarios orgánicos de compañeros y usuarios
+- Contenido de flota nueva (Youtong) → protagonismo, orgullo de marca
+- Alianzas institucionales (Alcaldía, Área Metropolitana) → credibilidad y alcance
+- Preguntas de interacción en carruseles: "¿Cuál fue tu favorito?"
+
+### Brecha crítica a cerrar (oportunidad)
+**La marca NO responde comentarios de servicio al cliente en Instagram.** Usuarios preguntan rutas, horarios, accesibilidad — y reciben emojis o silencio. Cualquier copy que produzcamos debe incluir una invitación a contactar por canales formales si hay consultas.
+
+### Emojis de marca (confirmados en uso real)
+💛 (amarillo del bus) · 🚌 · ❤️ · 👏 · ⚘ (en fechas especiales)
+
 ## Calendario editorial — pilares de contenido
 
-| Pilar | Frecuencia | Ejemplos |
-|-------|-----------|---------|
-| **Servicio** | 3x semana | Nueva ruta, cambio de horario, mejora del servicio |
-| **Comunidad** | 2x semana | Historias de conductores, usuarios, barrios |
-| **Educación** | 1x semana | Tips de movilidad, datos del SITM, cómo usar la app Buzii |
-| **Identidad** | 1x semana | Barranquilla, orgullo local, fechas cívicas |
-| **Reconocimiento** | 2x mes | Conductor del mes, aniversarios, logros del equipo |
+| Pilar | Frecuencia | Formato sugerido | Ejemplos |
+|-------|-----------|-----------------|---------|
+| **Servicio** | 3x semana | Reel + Story | Nueva ruta, cambio de horario, flota Youtong |
+| **Comunidad** | 2x semana | Reel o Carrusel | Conductor del día, usuario destacado, barrio |
+| **Educación** | 1x semana | Carrusel | Tips de movilidad, app Buzii, rutas |
+| **Identidad** | 1x semana | Reel | Barranquilla, orgullo local, fechas cívicas |
+| **Reconocimiento** | 2x mes | Carrusel o Reel | Conductor del mes, Educarolina, logros |
+| **Institucional** | según ocurra | Reel | Alianzas, nueva flota, premios |
 
 ---
 
